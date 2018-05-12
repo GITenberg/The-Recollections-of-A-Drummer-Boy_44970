@@ -1,0 +1,37 @@
+_repo: The-Recollections-of-A-Drummer-Boy_44970
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44970-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kieffer, Henry Martyn
+    alias: Kieffer, Harry M.
+    birthdate: 1845
+    deathdate: 1930
+    gutenberg_agent_id: '42853'
+    url: http://www.gutenberg.org/2009/agents/42853
+description: ''
+gutenberg_issued: '2014-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44970'
+  lccn: 02017823
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drummers (Musicians) -- Pennsylvania -- Mifflinburg -- Biography'
+- !lcsh 'United States. Army. Pennsylvania Infantry Regiment, 150th (1862-1865)'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'Child soldiers -- Pennsylvania -- Mifflinburg -- Biography'
+- !lcsh 'Kieffer, Henry Martyn, 1845-1930'
+- !lcsh 'Mifflinburg (Pa.) -- Biography'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Participation, Juvenile'
+- !lcsh 'Pennsylvania -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'Pennsylvania -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+title: The Recollections of a Drummer-Boy
+url: http://www.gutenberg.org/ebooks/44970
