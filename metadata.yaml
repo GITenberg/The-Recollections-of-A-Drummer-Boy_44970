@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42853'
     url: http://www.gutenberg.org/2009/agents/42853
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44970#The-Recollections-of-A-Drummer-Boy
 gutenberg_issued: '2014-02-20'
 gutenberg_type: Text
 identifiers:
